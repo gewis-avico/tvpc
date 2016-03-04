@@ -1,0 +1,24 @@
+{
+    "skin":"gewis",
+    "pages":[
+        "logo",
+        "agenda",
+        "twitter",
+        "posters",
+        "photo",
+        "photo",
+        "photo"
+
+    ],
+    "galleries":[676,677,678,679,680,683],
+    "posters":[
+    ],
+    "randomposters":[
+    ],
+    "timeout":20,
+    "timeout_special":{
+        "photo":10,
+        "randomposters":15
+    },
+    "screen_offset":3
+}
