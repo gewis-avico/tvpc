@@ -1,0 +1,45 @@
+{
+	"version": 2,
+	
+    "skin": "gewis",
+	
+	"timeout": 20,
+	
+    "pages":[
+        {
+			"type": "logo"
+		},
+        {
+			"type": "infima"
+		},
+        {
+			"type": "agenda"
+		},
+        {
+			"type": "ns",
+			"timeout": 15
+		},
+        {
+			"type": "photo",
+			"galleries": [
+					"947"
+				],
+			"timeout": 10
+		},
+        {
+			"type": "photo",
+			"galleries": [
+					"947"
+				],
+			"timeout": 10
+		},
+        {
+			"type": "photo",
+			"galleries": [
+					"947"
+				],
+			"timeout": 10
+		}
+
+    ]
+}

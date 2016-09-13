@@ -1,0 +1,129 @@
+{
+	"version": 2,
+	
+    "skin": "gewis",
+	
+	"timeout": 20,
+	
+    "pages":[
+        {
+			"type": "logo"
+		},
+        {
+			"type": "agenda"
+		},
+        {
+			"type": "ns",
+			"timeout": 15
+		},
+        {
+			"type": "facebook"
+		},
+        {
+			"type": "randomposter",
+			"posters": [
+				"\/~vvz\/tvpc\/posters\/new\/5b8bdd291e0fb2c164f0a781c1aff26231c0933b.png",
+				"\/~vvz\/tvpc\/posters\/new\/78b3403f4c756446ea5dc9435c0eaa78cbf64992.jpg"
+			],
+			"timeout": 15
+		},
+        {
+			"type": "external",
+			"source": "https:\/\/gewis.nl\/~vvz\/gifposters\/cognizant.html"
+		},
+        {
+			"type": "external",
+			"source": "https:\/\/gewis.nl\/~vvz\/gifposters\/dsw.html"
+		},
+        {
+			"type": "external",
+			"source": "https:\/\/gewis.nl\/~boom\/poster\/actief\/"
+		},
+        {
+			"type": "external",
+			"source": "https:\/\/www.gewis.nl\/~gezwem\/poster",
+			"timeout": 25
+		},
+        {
+			"type": "poster",
+			"posters": [
+					"\/~vvz\/tvpc\/posters\/new\/744be5e178029838f0ff6d9d4b924813874015d7.jpg.new.png",
+					"\/~vvz\/tvpc\/posters\/new\/3749c362bc330a1c6fcfa57609d737e676893b4d.jpg",
+					"\/~vvz\/tvpc\/posters\/new\/09c985cac49ebc322e60c291f97949ba3cc88659.jpg",
+					"\/~vvz\/tvpc\/posters\/new\/2e77f88ae24c667caf2742e0d13009376deaa47f.jpg.new.png",
+					"\/~vvz\/tvpc\/posters\/new\/aa572d5ba697dfaa6a8506952a39b5413efc9c96.jpg",
+					"\/~vvz\/tvpc\/posters\/new\/38b856792c233ce328dd6edb58d5db23fed75a29.jpg",
+					"\/~vvz\/tvpc\/posters\/new\/e681064b028fb396248805b871efdc7ce9da3aa3.png",
+					"\/~vvz\/tvpc\/posters\/new\/d907cdfb8e9c7b7f3dc933521a4747c3b66a35ce.png.new.png",
+					"\/~vvz\/tvpc\/posters\/new\/54d4c0010c159baadcd2a8106b8d53ba0c07d96d.png.new.png",
+					"\/~vvz\/tvpc\/posters\/new\/b3c36546296d8d2cc0b1612b357f7879cb6da2ce.png",
+					"\/~vvz\/tvpc\/posters\/new\/5bfff1a3fc4f8c167704201c85325fe45d3afbbf.jpg",
+					"\/~vvz\/tvpc\/posters\/new\/58f68315c8d7b07cfdc5de35ed143e482b383478.png",
+					"\/~vvz\/tvpc\/posters\/new\/92354181113663a899754b1ddbff8a72d17d966a.jpg.new.png",
+					"\/~vvz\/tvpc\/posters\/new\/fe55f39348ffcabe370d2a67b3bcc5cd845fe517.jpg",
+					"\/~vvz\/tvpc\/posters\/new\/ba180e41a9b1cb933ee5bc5b8ec5822ccc3adf09.jpg",
+					"\/~vvz\/tvpc\/posters\/new\/f3a008f91a40d4e28c4286287e4a4ceaf826bbb6.jpg.new.png",
+					"\/~vvz\/tvpc\/posters\/new\/ecb7aacd8101760b7408a82682f9231ec17fc5d1.jpg.new.png",
+					"\/~vvz\/tvpc\/posters\/new\/8509e98c819653d4a0a423bf60984a0d30f1fe2a.jpg.new.png",
+					"\/~vvz\/tvpc\/posters\/new\/606223910c48e189b4d49514a36cd003c716ca75.jpg",
+					"\/~vvz\/tvpc\/posters\/new\/7c54b4469b1eac1332e030ab69d55cb126f44ce5.jpg",
+					"\/~vvz\/tvpc\/posters\/new\/d10a8ebf4ebaaa3f389ba10d65b7d9ed830c4c1a.jpg"
+				]
+		},
+        {
+			"type": "photo",
+			"galleries": [
+					"701",
+					"702",
+					"1295",
+					"1296",
+					"1297",
+					"1298",
+					"1299",
+					"1300",
+					"1302",
+					"1303",
+					"1305",
+					"1306"
+				],
+			"timeout": 10
+		},
+        {
+			"type": "photo",
+			"galleries": [
+					"701",
+					"702",
+					"1295",
+					"1296",
+					"1297",
+					"1298",
+					"1299",
+					"1300",
+					"1302",
+					"1303",
+					"1305",
+					"1306"
+				],
+			"timeout": 10
+		},
+        {
+			"type": "photo",
+			"galleries": [
+					"701",
+					"702",
+					"1295",
+					"1296",
+					"1297",
+					"1298",
+					"1299",
+					"1300",
+					"1302",
+					"1303",
+					"1305",
+					"1306"
+				],
+			"timeout": 10
+		}
+
+    ]
+}

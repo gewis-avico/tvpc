@@ -1,0 +1,1 @@
+<iframe class="tvpc-iframe" src="<?=$page->source?>" scrolling="no" seamless></iframe>

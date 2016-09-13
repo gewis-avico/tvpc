@@ -1,0 +1,97 @@
+@import "https://fonts.googleapis.com/css?family=Source+Code+Pro";
+@import "https://fonts.googleapis.com/css?family=Raleway:400,700";
+
+* {
+	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+	-moz-box-sizing: border-box;    /* Firefox, other Gecko */
+	box-sizing: border-box;         /* Opera/IE 8+ */
+	/*cursor: none;*/
+}
+
+body,
+html {
+	display: block;
+	position: absolute;
+	margin: 0;
+	padding: 0;
+	height: 100%;
+	width: 100%;
+	overflow-y: hidden;
+	font-size: 100%;
+}
+
+body {
+	transition: background 1s ease-in-out;
+	color: #ffffff;
+	font-family: "Raleway", sans-serif;
+	font-size: 1.75em;
+	font-weight: 700;
+}
+
+p {
+	line-height: 1.5em;
+}
+
+#tvpc-content {
+	display: block;
+	position: relative;
+	left: 0;
+	top: 0;
+	height: 100%;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	overflow-y: hidden;
+}
+
+#tvpc-time {
+	display: block;
+	position: absolute;
+	top: 0.5em;
+	right: 0.5em;
+	z-index: 9999;
+	color: #ffffff;
+	font-family: "Source Code Pro", monospace;
+	font-size: 3em;
+	font-weight: bold;
+	text-shadow: 0 0 0.3em #000000;
+}
+
+.tvpc-iframe {
+	border: none;
+	display: block;
+	position: relative;
+	left: 0;
+	top: 0;
+	height: 100%;
+	width: 100%;
+	padding: 0;
+}
+
+.tvpc-avico {
+	display: block;
+	position: relative;
+	height: 100%;
+	width: 100%;
+}
+
+	.tvpc-avico div {
+		background-color: rgba(0, 0, 0, 0.4);
+		display: block;
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%, -50%);
+		width: 90%;
+	}
+	
+		.tvpc-avico div p {
+			display: block;
+			font-size: 4.5em;
+			margin: 0.8em 0;
+			text-align: center;
+		}
+		
+			.tvpc-avico div p span {
+				font-size: 0.4em;
+			}

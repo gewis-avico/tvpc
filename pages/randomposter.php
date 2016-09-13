@@ -1,0 +1,1 @@
+<img class="poster" src="<?=$page->posters[rand(0, count($page->posters)-1)]?>" />
