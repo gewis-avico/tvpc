@@ -3,7 +3,7 @@
 error_reporting(0);
 
 // Variables
-require_once(__DIR__ . "config.php");
+require_once(__DIR__ . DIRECTORY_SEPARATOR . "config.php");
 
 // Start setup
 header("Content-Type:text/html; charset=UTF-8");
